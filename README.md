@@ -11,5 +11,5 @@ Victor
 3. Melón
 
  ---
-afda
-[Imagen](https://www.ieszaidinvergeles.org/ "título")
+
+[Zaidin](https://www.ieszaidinvergeles.org/ "título")
